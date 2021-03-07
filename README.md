@@ -5,11 +5,11 @@ Atividade 1 - Introdução, configuração e criação de projeto
 
 * Seguindo os passos apresentados nos vídeos de Introdução, faça o seguinte:
 
-    Crie um app Rails usando Ruby 2.7.2. # OK
-    Utilizando Scaffold, crie 3 diferentes entidades (models), com algum tipo de ligação entre si. # OK
-        Utilizar o inglês nos nomes de models e seus atributos. # OK
-    Faça tudo funcionar (migrar banco e rodar servidor local). # OK
-    Adicione Git no app, envie para o GitHub e compartilhe o link aqui nesta atividade. # OK
+   ## Crie um app Rails usando Ruby 2.7.2. OK
+    ## Utilizando Scaffold, crie 3 diferentes entidades (models), com algum tipo de ligação entre si.  OK
+## Utilizar o inglês nos nomes de models e seus atributos. OK
+   ## Faça tudo funcionar (migrar banco e rodar servidor local). OK
+    ## Adicione Git no app, envie para o GitHub e compartilhe o link aqui nesta atividade. # OK
 
 * Observações:
 
