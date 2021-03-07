@@ -1,7 +1,7 @@
 # README
-Atividade 1 - Introdução, configuração e criação de projeto
+## Atividade 1 - Introdução, configuração e criação de projeto
 
-* Esta atividade tem como objetivo garantir que o Rails e demais ferramentas estão devidamente instaladas e funcionais no seu computador pessoal.
+#### Esta atividade tem como objetivo garantir que o Rails e demais ferramentas estão devidamente instaladas e funcionais no seu computador pessoal.
 
 * Seguindo os passos apresentados nos vídeos de Introdução, faça o seguinte:
 
